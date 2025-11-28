@@ -5,7 +5,7 @@ Session-1:
 Session-2: 
 Session-3: LTIM_Cosmos_DB_MCQ_QB
 
-COD QB Added: LTIM_Azure_Relational_Data_QB
+COD QB Added: LTIM_Azure_Relational_Data_QB, LTIM_Spark_Cosmos_DB_QB
 
 Week-6 Day-3 Session-1: 
 PPT: 
@@ -15,15 +15,15 @@ COD - 2: Practice_RD_Azure_SQL_Q2
 COD - 3: Practice_RD_Azure_SQL_Q3
 
 Week-6 Day-3 Session-2:
-PPT: 
-MCQ: 
-COD - 1: 
-COD - 2: 
-COD - 3: 
+PPT: Teaching_Azure Cosmos DB
+MCQ: KCQ_Cosmos_DB_Introduction
+COD - 1: Practice_CosmosDB_Q1
+COD - 2: Practice_CosmosDB_Q2
+COD - 3: Practice_CosmosDB_Q3
 
 Week-6 Day-3 Session-3:
 PPT: 
-MCQ: KCQ_Cosmos_DB_Introduction
+MCQ:
 COD - 1: 
 COD - 2: 
 COD - 3: 
